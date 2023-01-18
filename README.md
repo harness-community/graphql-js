@@ -1,3 +1,7 @@
+Build & Test GraphQL.js on Harness CI
+=======================================
+This is a fork of GraphQL.js project. This repo can be used to demo the new capabilities of Harness CI. Please follow [these instructions](https://github.com/harness-community/graphql-js/blob/main/.harness/README.md) on how to clone this repo and see the results yourself.
+
 # GraphQL.js
 
 The JavaScript reference implementation for GraphQL, a query language for APIs created by Facebook.
