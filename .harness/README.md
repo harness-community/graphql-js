@@ -8,7 +8,7 @@ This is a fork of GraphQL JS project. This project is used for testing Harness C
 
 ## Setting up this pipeline on Harness CI Hosted Builds
 
-1. Fork [this repository](https://github.com/harness-community/graphql/graphql-js) into your GitHub account. 
+1. Fork [this repository](https://github.com/harness-community/graphql-js) into your GitHub account. 
 
 2. If you are new to Harness CI, signup for [Harness CI](https://app.harness.io/auth/#/signup)
  * Select the `Continuous Integration` module.
