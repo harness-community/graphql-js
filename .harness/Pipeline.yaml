@@ -1,7 +1,7 @@
   properties:
     ci:
       codebase:
-        connectorRef: dhrubaaccountconnector
+        connectorRef: git-connector
         repoName: graphql-js
         build: <+input>
   stages:
